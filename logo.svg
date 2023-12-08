@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174.396" height="53" viewBox="0 0 174.396 53">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0 17.68)">
+    <g id="Layer_4" data-name="Layer 4" transform="translate(0 -17.68)">
+      <path id="Path_1" data-name="Path 1" d="M11.864,13.22H45.046V43.534A11.864,11.864,0,0,1,33.182,55.4H0V25.084A11.864,11.864,0,0,1,11.864,13.22Z" transform="translate(0 -5.095)" fill="#1b3544"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="29.522" height="27.548" transform="translate(15.408 8.211)" fill="#35515c"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="22.555" height="21.169" transform="translate(22.489 8.125)" fill="#5d7a7a"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="15.915" height="15.802" transform="translate(29.128 8.125)" fill="#cc793f"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="5.764" height="2.351" transform="translate(33.391 14.556) rotate(45)" fill="#fff"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="11.162" height="2.351" transform="translate(43.696 12.41) rotate(135)" fill="#fff"/>
+      <text id="to" transform="translate(58.787 40.943)" fill="#1b3544" font-size="43" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="-0.08em"><tspan x="0" y="0">t</tspan><tspan y="0" letter-spacing="-0.05em">o</tspan></text>
+      <text id="due" transform="translate(101.396 41)" fill="#1b3544" font-size="43" font-family="Gilroy-ExtraBold, Gilroy" font-weight="800" letter-spacing="-0.05em"><tspan x="0" y="0">due</tspan></text>
+    </g>
+  </g>
+</svg>

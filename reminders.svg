@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="34" viewBox="0 0 38 34">
+  <g id="clock" transform="translate(-609 -987)">
+    <path id="Rectangle_10" data-name="Rectangle 10" d="M10,0H38a0,0,0,0,1,0,0V24A10,10,0,0,1,28,34H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(609 987)" fill="#cc793f"/>
+    <g id="clock-2" data-name="clock" transform="translate(-100 -186.936)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="8" cy="8" r="8" transform="translate(720 1183)" fill="#fff"/>
+      <line id="Line_6" data-name="Line 6" y2="6" transform="translate(728 1185)" fill="none" stroke="#cc793f" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_7" data-name="Line 7" x2="4" transform="translate(728 1191)" fill="none" stroke="#cc793f" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

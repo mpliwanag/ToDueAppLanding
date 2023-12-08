@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="34" viewBox="0 0 38 34">
+  <g id="login" transform="translate(-609 -987)">
+    <path id="Rectangle_10" data-name="Rectangle 10" d="M10,0H38a0,0,0,0,1,0,0V24A10,10,0,0,1,28,34H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(609 987)" fill="#cc793f"/>
+    <g id="login-2" data-name="login" transform="translate(620 1000.072)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="8" cy="8" r="8" transform="translate(0 -4.008)" fill="#fff"/>
+      <g id="up-arrow" transform="translate(11.731) rotate(90)">
+        <path id="Path_4" data-name="Path 4" d="M.081,3.852,3.852.081a.254.254,0,0,1,.372,0L8,3.852a.254.254,0,0,1,0,.372l-.4.4a.255.255,0,0,1-.372,0L4.038,1.449.858,4.629a.255.255,0,0,1-.372,0l-.4-.4a.255.255,0,0,1,0-.372Z" transform="translate(0 0)" fill="#cc793f"/>
+      </g>
+      <path id="Path_5" data-name="Path 5" d="M10.675,0H0" transform="translate(0 4.038)" fill="#cc793f" stroke="#cc793f" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
